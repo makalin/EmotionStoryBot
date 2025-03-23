@@ -1,0 +1,4 @@
+opencv-python==4.8.0
+deepface==0.0.79
+pyttsx3==2.90
+pyserial==3.5
